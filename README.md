@@ -1,4 +1,4 @@
-<b>A Complit Asp MVC Core CRUD Project With Entity ORM :<b>
+<strong>A Complit Asp MVC Core CRUD Project With Entity ORM :</strong>
 <br>
 Model binding and validated with dataAnnotation class
 <br>
