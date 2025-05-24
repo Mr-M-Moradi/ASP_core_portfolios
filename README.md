@@ -1,3 +1,9 @@
+<b>A Complit Asp MVC Core CRUD Project With Entity ORM :<b>
+<br>
+Model binding and validated with dataAnnotation class
+<br>
+CRUD Views with Scaffold Templates and CRUD operation in SqlServer and MySql all in one project
+<br>
 
 <br>
 contact Razor form in MVC, Model binding and validated with dataAnnotation class and store with Entity ORM 
