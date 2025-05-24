@@ -4,7 +4,7 @@ Model binding and validated with dataAnnotation class
 <br>
 CRUD Views with Scaffold Templates and CRUD operation in SqlServer and MySql all in one project
 <br>
-
+![ComplitAspMvcCoreCrudProjectWithEntity](https://github.com/user-attachments/assets/494e178e-d61a-4ecb-81df-a054e900d314)
 <br>
 contact Razor form in MVC, Model binding and validated with dataAnnotation class and store with Entity ORM 
 <br>
