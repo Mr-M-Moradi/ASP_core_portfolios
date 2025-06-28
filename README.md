@@ -17,3 +17,10 @@ Asp Mvc Crud Project With Pagination, Sorting And SearchBox
 And all this in the form of Ajax requests:
 <br>
 ![AspMvcCrudProjectWithPaginationSortingAndSearchBox](https://github.com/user-attachments/assets/c8cd3190-68da-4ac4-bf49-1195d4acda2b)
+<br><hr>
+<b>make once, use many </b>
+<br>
+in this CRUD project we have one 'class library Core', which give us a dll that we can use it as cross-platform for Sql connection and Crud operation and more
+<br>
+in this case, i use it in console project :
+<br>
