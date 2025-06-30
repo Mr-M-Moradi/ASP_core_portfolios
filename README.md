@@ -24,3 +24,4 @@ in this CRUD project we have one 'class library Core', which give us a dll that 
 <br>
 in this case, i use it in console project :
 <br>
+![ComplitCrudConsoleAndDllProject](https://github.com/user-attachments/assets/988a432a-53e2-4bef-917f-de75eff06029)
